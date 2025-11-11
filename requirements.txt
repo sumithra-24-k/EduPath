@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+email-validator
+python-dotenv
+fpdf
